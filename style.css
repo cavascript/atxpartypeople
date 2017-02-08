@@ -1,0 +1,7 @@
+ul{
+	list-style: none !important;
+}
+#main-hoods{
+	max-width: 500px;
+	margin:0 auto;
+}
